@@ -93,7 +93,7 @@ void keyPressed() {
     mode = DESCENDING;
     reset();
   }
-  if (key == 's') {
+  if (key == 'q') {
     mode = RANDOM;
     reset();
   }
